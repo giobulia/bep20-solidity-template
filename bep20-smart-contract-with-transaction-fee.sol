@@ -1,4 +1,4 @@
-# Line 532: Edit your wallet ID
+// Line 532: Edit your wallet ID
 
 pragma solidity 0.5.16;
 
